@@ -80,6 +80,7 @@ public class Appavancereto {
             System.out.println("Opción no válida.");
         }
     }
+    // TODO:NO CREO ES EN NADIEEEEEEEEEEEEEEEEEEEEE
 
     // Función para iniciar la simulación del vuelo
     public static void iniciarSimulacion() {
